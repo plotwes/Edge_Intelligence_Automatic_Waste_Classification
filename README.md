@@ -3,7 +3,7 @@
 
 ### Nama dan NIM Anggota Penyusun
 Proyek akhir ini merupakan salah satu tugas yang diberikan oleh mata kuliah _Edge Intelligence and Computing_ dimana Dosen Pengampu dari kelas ini adalah:
-Bpk. Dahnial Syauqy S.T., M.T., M.Sc.
+**Bpk. Dahnial Syauqy S.T., M.T., M.Sc.**
 
 Berikut merupakan lampiran mengenai identitas penyusun proyek ini sehingga dapat berjalan dengan lancar:
 1. Arya Pradipto (215150300111014)
