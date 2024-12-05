@@ -2,6 +2,14 @@
 ![img](assets/waste-demo.jpg)
 
 ### Nama dan NIM Anggota Penyusun
+Berikut merupakan lampiran mengenai identitas penyusun proyek ini sehingga dapat berjalan dengan lancar:
+1. Arya Pradipto (215150300111014)
+2. Muhammad Zaidan Albert (215150300111001)
+3. Rifqi Aditya Fadhil (215150300111015)
+4. ⁠Gregorio Manoeroe (215150300111019)
+
+### Jadwal serta Pembagian Tugas
+![img](assets/bagi-tugas.jpg)
 
 ## Penjelasan Proyek Akhir
 Projek ini bertujuan untuk mengimplementasikan sebuah sistem yang dapat mengidentifikasi dan mengklasifikasikan jenis sampah dengan menggunakan _Edge Devices_ dan sebuah perangkat komputasi berupa Raspberry Pi 4.
@@ -21,6 +29,10 @@ Pada bagian ini, akan disusun mengenai rekayasa dari perangkat lunak dan perangk
 
 ### Diagram Keseluruhan Sistem
 ![img](assets/system-flowchart.png)
+
+### Dataset Penggunaan Training
+Lampiran berikut merupakan kumpulan dari citra sampah yang digunakan sebagai _Dataset_ untuk _Training_ dari algoritma DenseNet201.
+**https://drive.google.com/drive/folders/1vJfYpHzuwcTGsy4mfbU9OAFK83DhpFdH**
 
 ### Rekayasa Perangkat Keras
 - **Raspberry Pi 4 Model B Ram 4 GB**: _Single Board Computer_ yang digunakan sebagai perangkat komputasi utama dalam sistem.
@@ -44,3 +56,8 @@ Pada bagian ini, akan disusun mengenai rekayasa dari perangkat lunak dan perangk
 ![img](assets/alat-3.jpg)
 
 ### Demo Pengimplementasian Sistem
+Video demonstrasi dari keseluruhan sistem dan penggunaannya dapat dilihat pada lampiran berikut:
+**https://github.com/plotwes/Edge_Intelligence_Automatic_Waste_Classification/blob/main/assets/test-demo-alat.mp4**
+
+## Kesimpulan
+Pada penelitian ini didapatkan nilai epoch terbaik dari hasil pengujian dengan menggunakan callbacks adalah epoch ke‐20. Selanjutnya, untuk rata‐rata waktu komputasi secara keseluruhan yang didapatkan oleh sistem yaitu 4,2239675 detik. Terakhir, Hasil integrasi pada sistem yang didapatkan yaitu nilai akurasi sebesar 92,5%, dimana masih terdapat beberapa integrasi yang salah pada kelas Anorganik.
