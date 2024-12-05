@@ -2,6 +2,9 @@
 ![img](assets/waste-demo.jpg)
 
 ### Nama dan NIM Anggota Penyusun
+Proyek akhir ini merupakan salah satu tugas yang diberikan oleh mata kuliah _Edge Intelligence and Computing_ dimana Dosen Pengampu dari kelas ini adalah:
+Bpk. Dahnial Syauqy S.T., M.T., M.Sc.
+
 Berikut merupakan lampiran mengenai identitas penyusun proyek ini sehingga dapat berjalan dengan lancar:
 1. Arya Pradipto (215150300111014)
 2. Muhammad Zaidan Albert (215150300111001)
@@ -10,6 +13,10 @@ Berikut merupakan lampiran mengenai identitas penyusun proyek ini sehingga dapat
 
 ### Jadwal serta Pembagian Tugas
 ![img](assets/bagi-tugas.jpg)
+
+### _PowerPoint_ Presentasi Proyek
+Berikut merupakan lampiran untuk menuju ke Materi Presentasi Akhir:
+**https://www.canva.com/design/DAGQpNNKtqQ/HjHT1XfNjJNxt9ZHl9qfNw/edit?utm_content=DAGQpNNKtqQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
 
 ## Penjelasan Proyek Akhir
 Projek ini bertujuan untuk mengimplementasikan sebuah sistem yang dapat mengidentifikasi dan mengklasifikasikan jenis sampah dengan menggunakan _Edge Devices_ dan sebuah perangkat komputasi berupa Raspberry Pi 4.
